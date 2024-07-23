@@ -1,0 +1,27 @@
+V 000047 55 1036          1588629106864 Simple
+(_unit VHDL (multiplexor_2a1_case 0 28 (simple 0 38 ))
+	(_version v98)
+	(_time 1588629106865 2020.05.04 16:51:46)
+	(_source (\./src/multiplexor_2a1_case.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code 075452000550001002041e5c5601540102000f0151)
+	(_entity
+		(_time 1588629106862)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 1)(i 0))))))
+		(_port (_internal I ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_entity (_in ))))
+		(_port (_internal S ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal Y ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_process
+			(line__40(_architecture 0 0 40 (_process (_simple)(_target(2))(_sensitivity(0)(1)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_model . Simple 1 -1
+	)
+)
