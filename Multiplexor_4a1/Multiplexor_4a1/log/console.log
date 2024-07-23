@@ -1,0 +1,52 @@
+# Design: Design Multiplexor_4a1 already active.
+# 
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -work Multiplexor_4a1 -2002  $dsn/src/Multiplexor_4a1.vhd
+# Compile with File Reorder...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Multiplexor_4a1\Multiplexor_4a1\src\Multiplexor_4a1.vhd
+# Compile Entity "Multiplexor_4a1"
+# Compile Architecture "Simple" of Entity "Multiplexor_4a1"
+# Top-level unit(s) detected:
+# Entity => Multiplexor_4a1
+# Compile success 0 Errors 0 Warnings  Analysis time :  2.0 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+Multiplexor_4a1 Multiplexor_4a1 Simple
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5748 kB (elbread=1023 elab2=4634 kernel=90 sdf=0)
+# KERNEL: ASDB file was created in location d:\DOCUMENTOS_d\HDL-DISEÑOS\Multiplexor_4a1\Multiplexor_4a1\src\wave.asdb
+#  05:23 p. m., lunes, 4 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: Multiplexor_4a1 (Simple)
+# 3 signal(s) traced.
+RUN 100 NS
+# KERNEL: stopped at time: 100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100 NS
+# KERNEL: stopped at time: 200 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100 NS
+# KERNEL: stopped at time: 300 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100 NS
+# KERNEL: stopped at time: 400 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+#  Simulation has been stopped

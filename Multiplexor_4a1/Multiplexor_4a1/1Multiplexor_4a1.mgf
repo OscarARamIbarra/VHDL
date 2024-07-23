@@ -1,0 +1,33 @@
+V 000047 55 1197          1588630956418 Simple
+(_unit VHDL (multiplexor_4a1 0 28 (simple 0 38 ))
+	(_version v98)
+	(_time 1588630956419 2020.05.04 17:22:36)
+	(_source (\./src/Multiplexor_4a1.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code d1d68c82d586d6c6d4d0c88a80d782d7d4d6d9d787)
+	(_entity
+		(_time 1588630956416)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{3~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 3)(i 0))))))
+		(_port (_internal I ~STD_LOGIC_VECTOR{3~downto~0}~12 0 30 (_entity (_in ))))
+		(_type (_internal ~STD_LOGIC_VECTOR{1~downto~0}~12 0 31 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 1)(i 0))))))
+		(_port (_internal S ~STD_LOGIC_VECTOR{1~downto~0}~12 0 31 (_entity (_in ))))
+		(_port (_internal Y ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_process
+			(line__41(_architecture 0 0 41 (_process (_simple)(_target(2))(_sensitivity(0)(1)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_static
+		(514 )
+		(770 )
+		(515 )
+	)
+	(_model . Simple 1 -1
+	)
+)

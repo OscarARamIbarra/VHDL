@@ -1,0 +1,1 @@
+-w -s "d:\DOCUMENTOS_d\HDL-DISEÑOS\Multiplexor_4a1\library.cfg"  -j "d:\DOCUMENTOS_d\HDL-DISEÑOS\Multiplexor_4a1\Multiplexor_4a1\projlib.cfg"  -d "d:\DOCUMENTOS_d\HDL-DISEÑOS\Multiplexor_4a1\Multiplexor_4a1\compile"   -work Multiplexor_4a1  -O3 -e 100 -o -2002 "d:\DOCUMENTOS_d\HDL-DISEÑOS\Multiplexor_4a1\Multiplexor_4a1\src\Multiplexor_4a1.vhd"
