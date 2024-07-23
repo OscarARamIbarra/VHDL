@@ -1,0 +1,9 @@
+[General]
+CurrentVersion=103
+[CACHEDOC|Aldec.Project.Generic.7|.\LatchVSFlipFlop\LatchVSFlipFlop.adf|]
+Path=/comparisonlstchvsflipflop
+[COMPILESTATUS|.\src\LatchVSFlipFlop.vhd]
+FileTimeLow=30813716
+Status=Compiled
+[Gui config]
+RunFor=100 ns

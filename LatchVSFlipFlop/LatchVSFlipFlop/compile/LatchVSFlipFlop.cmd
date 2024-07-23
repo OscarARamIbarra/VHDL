@@ -1,0 +1,1 @@
+-w -s "D:\DOCUMENTOS_d\HDL-DISEÑOS\LatchVSFlipFlop\library.cfg"  -j "D:\DOCUMENTOS_d\HDL-DISEÑOS\LatchVSFlipFlop\LatchVSFlipFlop\projlib.cfg"  -d "D:\DOCUMENTOS_d\HDL-DISEÑOS\LatchVSFlipFlop\LatchVSFlipFlop\compile"   -work LatchVSFlipFlop  -O3 -e 100 -o -2002 "D:\DOCUMENTOS_d\HDL-DISEÑOS\LatchVSFlipFlop\LatchVSFlipFlop\src\LatchVSFlipFlop.vhd"

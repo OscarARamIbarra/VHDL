@@ -1,0 +1,7 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available." 
+MESSAGE "File: D:\DOCUMENTOS_d\HDL-DISEÑOS\LatchVSFlipFlop\LatchVSFlipFlop\src\LatchVSFlipFlop.vhd" 
+MESSAGE "Compile Entity "ComparisonLstchVSFlipFlop"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "ComparisonLstchVSFlipFlop"" 
+MESSAGE "Top-level unit(s) detected:" 
+MESSAGE "Entity => ComparisonLstchVSFlipFlop" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  2.0 [s]" 

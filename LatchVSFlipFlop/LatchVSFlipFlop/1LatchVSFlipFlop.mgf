@@ -1,0 +1,29 @@
+V 000051 55 1196          1589916860473 Behavioral
+(_unit VHDL (comparisonlstchvsflipflop 0 28 (behavioral 0 39 ))
+	(_version v98)
+	(_time 1589916860474 2020.05.19 14:34:20)
+	(_source (\./src/LatchVSFlipFlop.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code df8fd88ddf88dfc8de8fce848cd9d6d8dcd989d98a)
+	(_entity
+		(_time 1589916860471)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_port (_internal CLK ~extieee.std_logic_1164.STD_LOGIC 0 30 (_entity (_in )(_event))))
+		(_port (_internal D ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal QR ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_port (_internal QL ~extieee.std_logic_1164.STD_LOGIC 0 33 (_entity (_out ))))
+		(_process
+			(line__42(_architecture 0 0 42 (_process (_target(3))(_sensitivity(0)(1)))))
+			(line__51(_architecture 1 0 51 (_process (_target(2))(_sensitivity(0)(1))(_dssslsensitivity 1))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+		(_type (_external ~extieee.std_logic_1164.STD_ULOGIC (ieee std_logic_1164 STD_ULOGIC)))
+	)
+	(_model . Behavioral 2 -1
+	)
+)

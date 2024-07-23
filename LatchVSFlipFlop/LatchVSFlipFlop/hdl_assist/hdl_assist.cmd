@@ -1,0 +1,1 @@
+ -onlyCheck -cvi -2002  -s "D:/DOCUMENTOS_d/HDL-DISEÑOS/LatchVSFlipFlop/LatchVSFlipFlop/hdl_assist/library.cfg"  -work latchvsflipflop  -e 100  "D:/DOCUMENTOS_d/HDL-DISEÑOS/LatchVSFlipFlop/LatchVSFlipFlop/src/LatchVSFlipFlop.vhd" 

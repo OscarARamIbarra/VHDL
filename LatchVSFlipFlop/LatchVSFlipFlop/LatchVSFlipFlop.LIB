@@ -1,0 +1,25 @@
+timestamp=1589916862723
+
+[comparisonlstchvsflipflop]
+A/behavioral=A/Behavioral 21|./src/LatchVSFlipFlop.vhd|39|1*0
+BinI32/behavioral=3*0
+I=0*632
+I/behavioral=I/Behavioral 0*1167
+M=11|0|v98|1589916860470|./src/LatchVSFlipFlop.vhd|0*231*0x9f9747d065004bedbf7fca18162f5ed44e2b78ff|0*531*0xab32bc1a2daf049573e14469f634e0e6
+M/behavioral=M/Behavioral 21|0|v98|1589916860472|./src/LatchVSFlipFlop.vhd|0*751*0x8cd378d33541d25dad3dafd4d24085fd52a50db9|0*1052*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/LatchVSFlipFlop.vhd|28
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavioral=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[~A]
+ModifyID=5
+Version=73
+
+[~MFT]
+0=6|0LatchVSFlipFlop.mgf|1167|0
+1=0|1LatchVSFlipFlop.mgf|0|0
+3=0|3LatchVSFlipFlop.mgf|0|0
+
+[~U]
+comparisonlstchvsflipflop=ComparisonLstchVSFlipFlop 11|0*0|
+
