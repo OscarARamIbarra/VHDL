@@ -1,0 +1,688 @@
+# Design: Design ALU_Multiplicador already active.
+# 
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile with File Reorder...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0015: ALU_Multiplicador.vhd : (30, 1): ';' expected.
+# Error: COMP96_0016: ALU_Multiplicador.vhd : (30, 8): Design unit declaration expected.
+# Error: COMP96_0016: ALU_Multiplicador.vhd : (30, 26): Design unit declaration expected.
+# Error: COMP96_0019: ALU_Multiplicador.vhd : (52, 3): Keyword 'end' expected.
+# Error: COMP96_0016: ALU_Multiplicador.vhd : (52, 8): Design unit declaration expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -reorder -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile with File Reorder...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Error: COMP96_0078: ALU_Multiplicador.vhd : (32, 5): Unknown identifier "interer".
+# Error: COMP96_0064: ALU_Multiplicador.vhd : (32, 5): Unknown type.
+# Error: COMP96_0094: ALU_Multiplicador.vhd : (35, 28): Locally static expression is required in the range definition.
+# Error: COMP96_0094: ALU_Multiplicador.vhd : (36, 28): Locally static expression is required in the range definition.
+# Error: COMP96_0094: ALU_Multiplicador.vhd : (39, 29): Locally static expression is required in the range definition.
+# Error: COMP96_0019: ALU_Multiplicador.vhd : (52, 3): Keyword 'end' expected.
+# Error: COMP96_0016: ALU_Multiplicador.vhd : (52, 8): Design unit declaration expected.
+# Compile failure 7 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom -reorder -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile with File Reorder...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0019: ALU_Multiplicador.vhd : (52, 3): Keyword 'end' expected.
+# Error: COMP96_0016: ALU_Multiplicador.vhd : (52, 8): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0019: ALU_Multiplicador.vhd : (52, 2): Keyword 'end' expected.
+# Error: COMP96_0016: ALU_Multiplicador.vhd : (52, 7): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0019: ALU_Multiplicador.vhd : (52, 2): Keyword 'end' expected.
+# Error: COMP96_0016: ALU_Multiplicador.vhd : (52, 7): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0019: ALU_Multiplicador.vhd : (52, 2): Keyword 'end' expected.
+# Error: COMP96_0016: ALU_Multiplicador.vhd : (52, 7): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0019: ALU_Multiplicador.vhd : (52, 2): Keyword 'end' expected.
+# Error: COMP96_0016: ALU_Multiplicador.vhd : (52, 7): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0019: ALU_Multiplicador.vhd : (107, 5): Keyword 'process' expected.
+# Error: COMP96_0019: ALU_Multiplicador.vhd : (108, 0): Keyword 'end' expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0019: ALU_Multiplicador.vhd : (108, 1): Keyword 'process' expected.
+# Error: COMP96_0019: ALU_Multiplicador.vhd : (109, 0): Keyword 'end' expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0078: ALU_Multiplicador.vhd : (50, 43): Unknown identifier "O".
+# Error: COMP96_0133: ALU_Multiplicador.vhd : (50, 43): Cannot find object declaration.
+# Error: COMP96_0094: ALU_Multiplicador.vhd : (50, 43): Locally static expression is required in the range definition.
+# Error: COMP96_0264: ALU_Multiplicador.vhd : (52, 10): Signal "C" in the sensitivity list must denote a signal that can be read.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (58, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (59, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (60, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (61, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (63, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (64, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (65, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (66, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (67, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (69, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (70, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (71, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (72, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (73, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (75, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (76, 11): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (77, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (78, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (79, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (81, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (82, 16): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (83, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (84, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (85, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (87, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (88, 9): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (89, 9): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (90, 9): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (92, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (93, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (94, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (95, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (96, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (98, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (99, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (100, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (101, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (102, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (68, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (74, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (80, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (86, 10): The type of a choice expression does not match the case expression.
+# Compile failure 46 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0078: ALU_Multiplicador.vhd : (50, 40): Unknown identifier "O".
+# Error: COMP96_0133: ALU_Multiplicador.vhd : (50, 40): Cannot find object declaration.
+# Error: COMP96_0094: ALU_Multiplicador.vhd : (50, 40): Locally static expression is required in the range definition.
+# Error: COMP96_0264: ALU_Multiplicador.vhd : (52, 10): Signal "C" in the sensitivity list must denote a signal that can be read.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (58, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (59, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (60, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (61, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (63, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (64, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (65, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (66, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (67, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (69, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (70, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (71, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (72, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (73, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (75, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (76, 11): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (77, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (78, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (79, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (81, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (82, 16): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (83, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (84, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (85, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (87, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (88, 9): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (89, 9): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (90, 9): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (92, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (93, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (94, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (95, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (96, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (98, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (99, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (100, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (101, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (102, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (68, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (74, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (80, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (86, 10): The type of a choice expression does not match the case expression.
+# Compile failure 46 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0078: ALU_Multiplicador.vhd : (51, 19): Unknown identifier "M".
+# Error: COMP96_0264: ALU_Multiplicador.vhd : (51, 10): Signal "C" in the sensitivity list must denote a signal that can be read.
+# Error: COMP96_0348: ALU_Multiplicador.vhd : (51, 19): Name on sensitivity list must denote a signal.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (57, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (58, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (59, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (60, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (62, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (63, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (64, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (65, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (66, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (68, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (69, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (70, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (71, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (72, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (74, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (75, 11): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (76, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (77, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (78, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (80, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (81, 16): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (82, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (83, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (84, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (86, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (87, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (88, 9): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (89, 9): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (90, 9): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (92, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (93, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (94, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (95, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (96, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (98, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (99, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (100, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (101, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (102, 10): Undefined type of expression. Expected type 'STD_ULOGIC'.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (67, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (73, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (79, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (85, 10): The type of a choice expression does not match the case expression.
+# Compile failure 46 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0264: ALU_Multiplicador.vhd : (51, 10): Signal "C" in the sensitivity list must denote a signal that can be read.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (62, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (68, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (74, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (80, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (86, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (92, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (98, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (67, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (73, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (79, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (85, 10): The type of a choice expression does not match the case expression.
+# Compile failure 12 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (62, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (68, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (74, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (80, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (86, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (92, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0077: ALU_Multiplicador.vhd : (98, 10): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (67, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (73, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (79, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (85, 10): The type of a choice expression does not match the case expression.
+# Compile failure 11 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (67, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (73, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (79, 16): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (85, 10): The type of a choice expression does not match the case expression.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (73, 16): The type of a choice expression does not match the case expression.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (73, 16): The type of a choice expression does not match the case expression.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (73, 16): The type of a choice expression does not match the case expression.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Error: COMP96_0083: ALU_Multiplicador.vhd : (73, 15): The type of a choice expression does not match the case expression.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Compile success 0 Errors 0 Warnings  Analysis time :  2.0 [s]
+# Design: Design "ALU_Multiplicador" has been set as active.
+# Design: Design "ALU_Multiplicador" has been set as active.
+# Design: Design ALU_Multiplicador already active.
+# 
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+ALU_Multiplicador ALU_Multiplicador ARQ
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.5 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5754 kB (elbread=1023 elab2=4639 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\wave.asdb
+#  02:09 p. m., lunes, 11 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: ALU_Multiplicador (ARQ)
+# 9 signal(s) traced.
+# KERNEL: Signal '/ALU_Multiplicador/A' has already been traced
+# 0 signal(s) traced.
+# KERNEL: Signal '/ALU_Multiplicador/B' has already been traced
+# 0 signal(s) traced.
+# KERNEL: Signal '/ALU_Multiplicador/R' has already been traced
+# 0 signal(s) traced.
+RUN 100NS
+# KERNEL: stopped at time: 100 ns
+RUN 100NS
+# KERNEL: stopped at time: 200 ns
+RUN 100NS
+# KERNEL: stopped at time: 300 ns
+RUN 100NS
+# KERNEL: stopped at time: 400 ns
+RUN 100NS
+# KERNEL: stopped at time: 500 ns
+RUN 100NS
+# KERNEL: stopped at time: 600 ns
+RUN 100NS
+# KERNEL: stopped at time: 700 ns
+endsim
+#  Simulation has been stopped
+asim -O5 +access +r +m+ALU_Multiplicador ALU_Multiplicador ARQ
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5754 kB (elbread=1023 elab2=4639 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\wave.asdb
+#  02:22 p. m., lunes, 11 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: ALU_Multiplicador (ARQ)
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+RUN
+endsim
+# KERNEL: stopped at time: 680445200 ns
+#  Simulation has been stopped
+asim -O5 +access +r +m+ALU_Multiplicador ALU_Multiplicador ARQ
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5754 kB (elbread=1023 elab2=4639 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\wave.asdb
+#  02:24 p. m., lunes, 11 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: ALU_Multiplicador (ARQ)
+run
+endsim
+# KERNEL: stopped at time: 113605400 ns
+#  Simulation has been stopped
+# Warning: WAVEFORM: Object matching /alu_multiplicador/A not found in D:/DOCUMENTOS_d/HDL-DISEÑOS/ALU_Multiplicador/ALU_Multiplicador/ALU_Multiplicador/src/wave.asdb.
+asim -O5 +access +r +m+ALU_Multiplicador ALU_Multiplicador ARQ
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5754 kB (elbread=1023 elab2=4639 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\wave.asdb
+#  02:24 p. m., lunes, 11 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: ALU_Multiplicador (ARQ)
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+RUN 1000NS
+# KERNEL: stopped at time: 1 us
+endsim
+#  Simulation has been stopped
+acom -O3 -work ALU_Multiplicador -2002  $dsn/src/ALU_Multiplicador.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\ALU_Multiplicador.vhd
+# Compile Entity "ALU_Multiplicador"
+# Compile Architecture "ARQ" of Entity "ALU_Multiplicador"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.5 [s]
+asim -O5 +access +r +m+ALU_Multiplicador ALU_Multiplicador ARQ
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5754 kB (elbread=1023 elab2=4639 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\wave.asdb
+#  02:36 p. m., lunes, 11 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: ALU_Multiplicador (ARQ)
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+RUN 100NS
+# KERNEL: stopped at time: 100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 200 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 300 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 400 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5754 kB (elbread=1023 elab2=4639 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\wave.asdb
+#  02:43 p. m., lunes, 11 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: ALU_Multiplicador (ARQ)
+# KERNEL: Signal '/ALU_Multiplicador/A' has already been traced
+# KERNEL: Signal '/ALU_Multiplicador/B' has already been traced
+# KERNEL: Signal '/ALU_Multiplicador/R' has already been traced
+endsim
+#  Simulation has been stopped
+asim -O5 +access +r +m+ALU_Multiplicador ALU_Multiplicador ARQ
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5754 kB (elbread=1023 elab2=4639 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\wave.asdb
+#  02:44 p. m., lunes, 11 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: ALU_Multiplicador (ARQ)
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+RUN 100NS
+# KERNEL: stopped at time: 100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 200 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 300 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim -O5 +access +r +m+ALU_Multiplicador ALU_Multiplicador ARQ
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5754 kB (elbread=1023 elab2=4639 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\wave.asdb
+#  02:45 p. m., lunes, 11 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: ALU_Multiplicador (ARQ)
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+RUN 100NS
+# KERNEL: stopped at time: 100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 200 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 300 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 400 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 500 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 600 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 700 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim -O5 +access +r +m+ALU_Multiplicador ALU_Multiplicador ARQ
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5754 kB (elbread=1023 elab2=4639 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location D:\DOCUMENTOS_d\HDL-DISEÑOS\ALU_Multiplicador\ALU_Multiplicador\ALU_Multiplicador\src\wave.asdb
+#  02:51 p. m., lunes, 11 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: ALU_Multiplicador (ARQ)
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+RUN 100NS
+# KERNEL: stopped at time: 100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 200 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 300 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 400 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 500 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 600 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 700 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 800 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 900 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100NS
+# KERNEL: stopped at time: 1 us
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+#  Simulation has been stopped

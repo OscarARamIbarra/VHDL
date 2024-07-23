@@ -1,0 +1,25 @@
+timestamp=1589225764399
+
+[alu_multiplicador]
+A/arq=A/ARQ 21|./src/ALU_Multiplicador.vhd|49|1*2410
+BinI32/arq=3*0
+I=0*3363
+I/arq=I/ARQ 0*3608
+M=11|0|v98|1589225763846|./src/ALU_Multiplicador.vhd|0*2737*0x19dcf2358ab35ba80459b513cdb776e876d295cb|0*3268*0xab32bc1a2daf049573e14469f634e0e6
+M/arq=M/ARQ 21|0|v98|1589225763851|./src/ALU_Multiplicador.vhd|0*1256*0x7f222227472fa2683bab40c803c09a56d35a0a0d|0*2248*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/ALU_Multiplicador.vhd|30
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arq=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[~A]
+ModifyID=15
+Version=73
+
+[~MFT]
+0=16|0ALU_Multiplicador.mgf|3608|1256
+1=2|1ALU_Multiplicador.mgf|2410|2410
+3=0|3ALU_Multiplicador.mgf|0|0
+
+[~U]
+alu_multiplicador=ALU_Multiplicador 11|0*2350|
+
