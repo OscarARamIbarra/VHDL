@@ -1,0 +1,1 @@
+ -w -cvi -2002  -s "d:/DOCUMENTOS_d/HDL-DISEÑOS/Seno_de_x/Seno_de_x/hdl_assist/library.cfg"  -work Seno_de_x  -e 100  "d:/DOCUMENTOS_d/HDL-DISEÑOS/Seno_de_x/Seno_de_x/src/Seno_de_x.vhd"

@@ -1,0 +1,23 @@
+timestamp=1591201165055
+
+[seno_de_x]
+A/behavioral=A/Behavioral 21|./src/Seno_de_x.vhd|42|1*17112
+I=0*3898
+I/behavioral=I/Behavioral 0*4133
+M=11|0|v98|1591201165049|./src/Seno_de_x.vhd|0*3474*0x2ddb02af61ae14bc30d008784c38c7c3b69dcbc8|0*3819*0xab32bc1a2daf049573e14469f634e0e6
+M/behavioral=M/Behavioral 21|0|v98|1591201165054|./src/Seno_de_x.vhd|0*891*0x8451a561519efce86c59502fadb113b2b36f1f19|0*1377*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Seno_de_x.vhd|31
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavioral=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[~A]
+ModifyID=32
+Version=73
+
+[~MFT]
+0=36|0Seno_de_x.mgf|4133|2677
+1=14|1Seno_de_x.mgf|17112|17112
+
+[~U]
+seno_de_x=Seno_de_x 11|0*3256|
+

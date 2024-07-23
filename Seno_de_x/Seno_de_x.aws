@@ -1,0 +1,12 @@
+[Version]
+Version=9.1
+[Designs]
+seno_de_x=.\Seno_de_x\Seno_de_x.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+seno_de_x=1

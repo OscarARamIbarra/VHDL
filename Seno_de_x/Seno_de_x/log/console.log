@@ -1,0 +1,92 @@
+# Design: Design Seno_de_x already active.
+# 
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -work Seno_de_x -2002  $dsn/src/Seno_de_x.vhd
+# Compile with File Reorder...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd
+# Compile Entity "Seno_de_x"
+# Compile Architecture "Behavioral" of Entity "Seno_de_x"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd
+# Compile Entity "Seno_de_x"
+# Compile Architecture "Behavioral" of Entity "Seno_de_x"
+# File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd
+# Compile Entity "Seno_de_x"
+# Compile Architecture "Behavioral" of Entity "Seno_de_x"
+# File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd
+# Compile Entity "Seno_de_x"
+# Compile Architecture "Behavioral" of Entity "Seno_de_x"
+# Error: COMP96_0055: Seno_de_x.vhd : (30, 9): Cannot find referenced context element.
+# Error: COMP96_0056: Seno_de_x.vhd : (43, 1): Cannot find referenced entity declaration "Seno_de_x".
+# Error: COMP96_0016: Seno_de_x.vhd : (58, 1): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -work Seno_de_x -2002  $dsn/src/Seno_de_x.vhd
+# Compile with File Reorder...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd
+# Compile Entity "Seno_de_x"
+# Compile Architecture "Behavioral" of Entity "Seno_de_x"
+# Top-level unit(s) detected:
+# Entity => Seno_de_x
+# Error: COMP96_0016: Seno_de_x.vhd : (55, 1): Design unit declaration expected.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -work Seno_de_x -2002  $dsn/src/Seno_de_x.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd
+# Compile Entity "Seno_de_x"
+# Compile Architecture "Behavioral" of Entity "Seno_de_x"
+# Error: COMP96_0016: Seno_de_x.vhd : (55, 1): Design unit declaration expected.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work Seno_de_x -2002  $dsn/src/Seno_de_x.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd
+# Compile Entity "Seno_de_x"
+# Compile Architecture "Behavioral" of Entity "Seno_de_x"
+# Error: COMP96_0016: Seno_de_x.vhd : (55, 1): Design unit declaration expected.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -work Seno_de_x -2002  $dsn/src/Seno_de_x.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd
+# Compile Entity "Seno_de_x"
+# Compile Architecture "Behavioral" of Entity "Seno_de_x"
+# Error: COMP96_0016: Seno_de_x.vhd : (55, 1): Design unit declaration expected.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -work Seno_de_x -2002  $dsn/src/Seno_de_x.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd
+# Compile Entity "Seno_de_x"
+# Compile Architecture "Behavioral" of Entity "Seno_de_x"
+# Error: COMP96_0016: Seno_de_x.vhd : (55, 1): Design unit declaration expected.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -work Seno_de_x -2002  $dsn/src/Seno_de_x.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd
+# Compile Entity "Seno_de_x"
+# Compile Architecture "Behavioral" of Entity "Seno_de_x"
+# Error: COMP96_0016: Seno_de_x.vhd : (55, 1): Design unit declaration expected.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -work Seno_de_x -2002  $dsn/src/Seno_de_x.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd
+# Compile Entity "Seno_de_x"
+# Compile Architecture "Behavioral" of Entity "Seno_de_x"
+# Error: COMP96_0016: Seno_de_x.vhd : (57, 1): Design unit declaration expected.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work Seno_de_x -2002  $dsn/src/Seno_de_x.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd
+# Compile Entity "Seno_de_x"
+# Compile Architecture "Behavioral" of Entity "Seno_de_x"
+# Error: COMP96_0016: Seno_de_x.vhd : (55, 1): Design unit declaration expected.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  16.0 [ms]

@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available." 
+MESSAGE "File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd" 
+MESSAGE "Compile Entity "Seno_de_x"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "Seno_de_x"" 
+ERROR COMP96_0016: "Design unit declaration expected." "d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd" 55 1
+FAILURE "Compile failure 1 Errors 0 Warnings  Analysis time :  16.0 [ms]" 

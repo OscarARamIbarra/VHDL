@@ -1,0 +1,1 @@
+-w -s "d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\library.cfg"  -j "d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\projlib.cfg"  -d "d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\compile"   -work Seno_de_x  -O3 -e 100 -2002 "d:\DOCUMENTOS_d\HDL-DISEÑOS\Seno_de_x\Seno_de_x\src\Seno_de_x.vhd"
