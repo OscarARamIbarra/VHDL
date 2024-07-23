@@ -1,0 +1,40 @@
+V 000054 55 1368          1588633810518 Decodificador
+(_unit VHDL (decodificador_bcd_a7segmentos 0 28 (decodificador 0 37 ))
+	(_version v98)
+	(_time 1588633810519 2020.05.04 18:10:10)
+	(_source (\./src/Decodificador_BCD_a7segmentos.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code aff8adf8fcf8f8b9f8fcbbf5f7a9a9a9a6a9aca9ae)
+	(_entity
+		(_time 1588633810516)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{3~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 3)(i 0))))))
+		(_port (_internal B ~STD_LOGIC_VECTOR{3~downto~0}~12 0 30 (_entity (_in ))))
+		(_type (_internal ~STD_LOGIC_VECTOR{7~downto~1}~12 0 31 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 7)(i 1))))))
+		(_port (_internal S ~STD_LOGIC_VECTOR{7~downto~1}~12 0 31 (_entity (_out ))))
+		(_process
+			(line__40(_architecture 0 0 40 (_process (_simple)(_target(1))(_sensitivity(0)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_static
+		(50529027 131843 )
+		(33751810 131586 )
+		(50463491 197123 )
+		(50529027 197122 )
+		(33751810 197378 )
+		(50528771 197378 )
+		(50528771 197379 )
+		(33751811 131586 )
+		(50529027 197379 )
+		(33751811 197378 )
+		(134744072 526344 )
+	)
+	(_model . Decodificador 1 -1
+	)
+)

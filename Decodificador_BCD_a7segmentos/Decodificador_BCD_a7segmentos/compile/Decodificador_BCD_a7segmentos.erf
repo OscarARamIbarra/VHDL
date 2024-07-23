@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available." 
+MESSAGE "File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Decodificador_BCD_a7segmentos\Decodificador_BCD_a7segmentos\src\Decodificador_BCD_a7segmentos.vhd" 
+MESSAGE "Compile Entity "Decodificador_BCD_a7segmentos"" 
+MESSAGE "Compile Architecture "Decodificador" of Entity "Decodificador_BCD_a7segmentos"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  3.0 [s]" 

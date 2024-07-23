@@ -1,0 +1,25 @@
+timestamp=1588633814379
+
+[decodificador_bcd_a7segmentos]
+A/decodificador=A/Decodificador 21|./src/Decodificador_BCD_a7segmentos.vhd|37|1*0
+BinI32/decodificador=3*0
+I=0*1314
+I/decodificador=I/Decodificador 0*2122
+M=11|0|v98|1588633810515|./src/Decodificador_BCD_a7segmentos.vhd|0*883*0x1d640f5ce5a9f30458c970f71624c51e05e06351|0*1195*0xab32bc1a2daf049573e14469f634e0e6
+M/decodificador=M/Decodificador 21|0|v98|1588633810517|./src/Decodificador_BCD_a7segmentos.vhd|0*1437*0x2e88413fb8c9da7bfdb8bbb39de27e503ca0ec4c|0*1986*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Decodificador_BCD_a7segmentos.vhd|28
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/decodificador=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[~A]
+ModifyID=8
+Version=73
+
+[~MFT]
+0=14|0Decodificador_BCD_a7segmentos.mgf|2122|657
+1=0|1Decodificador_BCD_a7segmentos.mgf|0|0
+3=0|3Decodificador_BCD_a7segmentos.mgf|0|0
+
+[~U]
+decodificador_bcd_a7segmentos=Decodificador_BCD_a7segmentos 11|0*657|
+
