@@ -1,0 +1,73 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=Decodificador_BCD_a7segmentos_Booleana
+
+[Library]
+Decodificador_BCD_a7segmentos_Booleana=.\Decodificador_BCD_a7segmentos_Booleana.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+IMPL_TOOL=
+SYNTH_TOOL=
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+Decodificador_BCD_a7segmentos_Booleana=.
+Active_lib=
+
+[Folders]
+Name3=Makefiles
+Directory3=D:\DOCUMENTOS_d\HDL-DISEÑOS\Decodificador_BCD_a7segmentos_Booleana\Decodificador_BCD_a7segmentos_Booleana\
+Extension3=mak
+Name4=Memory
+Directory4=D:\DOCUMENTOS_d\HDL-DISEÑOS\Decodificador_BCD_a7segmentos_Booleana\Decodificador_BCD_a7segmentos_Booleana\src
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=D:\DOCUMENTOS_d\HDL-DISEÑOS\Decodificador_BCD_a7segmentos_Booleana\Decodificador_BCD_a7segmentos_Booleana\
+Extension5=dll
+Name6=PDF
+Directory6=D:\DOCUMENTOS_d\HDL-DISEÑOS\Decodificador_BCD_a7segmentos_Booleana\Decodificador_BCD_a7segmentos_Booleana\
+Extension6=pdf
+Name7=HTML
+Directory7=D:\DOCUMENTOS_d\HDL-DISEÑOS\Decodificador_BCD_a7segmentos_Booleana\Decodificador_BCD_a7segmentos_Booleana\
+Extension7=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=decodificador_bcd_a7segmentos_booleana|Decodificador|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/Decodificador_BCD_a7segmentos_Booleana.vhd=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+
+[Files.Data]
+.\src\Decodificador_BCD_a7segmentos_Booleana.vhd=VHDL Source Code
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+

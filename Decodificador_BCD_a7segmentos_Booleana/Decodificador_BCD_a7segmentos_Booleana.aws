@@ -1,0 +1,14 @@
+[Version]
+Version=9.1
+[Designs]
+decodificador_bcd_a7segmentos_booleana=.\Decodificador_BCD_a7segmentos_Booleana\Decodificador_BCD_a7segmentos_Booleana.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+decodificador_bcd_a7segmentos_booleana=1
+[Settings]
+Active=decodificador_bcd_a7segmentos_booleana
