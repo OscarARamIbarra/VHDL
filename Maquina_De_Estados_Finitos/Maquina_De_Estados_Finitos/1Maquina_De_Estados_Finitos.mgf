@@ -1,0 +1,393 @@
+I 000059 55 1349          1590514628822 Maquina_De_Estados
+(_unit VHDL (maquina_de_estados_finitos 0 28 (maquina_de_estados 0 38 ))
+	(_version v98)
+	(_time 1590514628823 2020.05.26 12:37:08)
+	(_source (\./src/Maquina_De_Estados_Finitos.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code 414f1143411714564715581b454740441747454744)
+	(_entity
+		(_time 1590514628820)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 1)(i 0))))))
+		(_port (_internal X ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_entity (_in ))))
+		(_port (_internal CLK ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal Z ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_type (_internal estados 0 39 (_enum1 a b c e (_to (i 0)(i 3)))))
+		(_signal (_internal estado_pres estados 0 40 (_architecture (_uni ))))
+		(_signal (_internal estado_fut estados 0 40 (_architecture (_uni ))))
+		(_process
+			(line__44(_architecture 0 0 44 (_process (_simple)(_target(2)(4))(_sensitivity(0)(3))(_read(4)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_static
+		(514 )
+		(770 )
+		(515 )
+	)
+	(_model . Maquina_De_Estados 1 -1
+	)
+)
+I 000059 55 1352          1590514749332 Maquina_De_Estados
+(_unit VHDL (maquina_de_estados_finitos 0 28 (maquina_de_estados 0 38 ))
+	(_version v98)
+	(_time 1590514749333 2020.05.26 12:39:09)
+	(_source (\./src/Maquina_De_Estados_Finitos.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code f5f6f0a5f1a3a0e2f3a0ecaff1f3f4f0a3f3f1f3f0)
+	(_entity
+		(_time 1590514628819)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 1)(i 0))))))
+		(_port (_internal X ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_entity (_in ))))
+		(_port (_internal CLK ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal Z ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_type (_internal estados 0 39 (_enum1 a b c e (_to (i 0)(i 3)))))
+		(_signal (_internal estado_pres estados 0 40 (_architecture (_uni ))))
+		(_signal (_internal estado_fut estados 0 40 (_architecture (_uni ))))
+		(_process
+			(line__44(_architecture 0 0 44 (_process (_simple)(_target(2)(3)(4))(_sensitivity(0)(3))(_read(4)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_static
+		(514 )
+		(770 )
+		(515 )
+	)
+	(_model . Maquina_De_Estados 1 -1
+	)
+)
+I 000059 55 1355          1590516171024 Maquina_De_Estados
+(_unit VHDL (maquina_de_estados_finitos 0 28 (maquina_de_estados 0 38 ))
+	(_version v98)
+	(_time 1590516171025 2020.05.26 13:02:51)
+	(_source (\./src/Maquina_De_Estados_Finitos.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code 7c7a7b7d2e2a296b7a2e6526787a7d792a7a787a79)
+	(_entity
+		(_time 1590514628819)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 1)(i 0))))))
+		(_port (_internal X ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_entity (_in ))))
+		(_port (_internal CLK ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal Z ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_type (_internal estados 0 39 (_enum1 a b c e (_to (i 0)(i 3)))))
+		(_signal (_internal estado_pres estados 0 40 (_architecture (_uni ))))
+		(_signal (_internal estado_fut estados 0 40 (_architecture (_uni ))))
+		(_process
+			(line__44(_architecture 0 0 44 (_process (_simple)(_target(2)(3)(4))(_sensitivity(0)(1)(3))(_read(4)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_static
+		(514 )
+		(770 )
+		(515 )
+	)
+	(_model . Maquina_De_Estados 1 -1
+	)
+)
+I 000059 55 1454          1590516334937 Maquina_De_Estados
+(_unit VHDL (maquina_de_estados_finitos 0 28 (maquina_de_estados 0 38 ))
+	(_version v98)
+	(_time 1590516334938 2020.05.26 13:05:34)
+	(_source (\./src/Maquina_De_Estados_Finitos.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code beb0b9eaeae8eba9bfb1a7e4bab8bfbbe8b8bab8bb)
+	(_entity
+		(_time 1590514628819)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 1)(i 0))))))
+		(_port (_internal X ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_entity (_in ))))
+		(_port (_internal CLK ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal Z ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_type (_internal estados 0 39 (_enum1 a b c e (_to (i 0)(i 3)))))
+		(_signal (_internal estado_pres estados 0 40 (_architecture (_uni ))))
+		(_signal (_internal estado_fut estados 0 40 (_architecture (_uni ))))
+		(_process
+			(line__47(_architecture 0 0 47 (_process (_target(3))(_sensitivity(1)(4))(_dssslsensitivity 1))))
+			(line__57(_architecture 1 0 57 (_process (_simple)(_target(2)(4))(_sensitivity(0)(1)(3))(_read(4)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_static
+		(514 )
+		(770 )
+		(515 )
+	)
+	(_model . Maquina_De_Estados 2 -1
+	)
+)
+I 000059 55 1454          1590516564281 Maquina_De_Estados
+(_unit VHDL (maquina_de_estados_finitos 0 28 (maquina_de_estados 0 38 ))
+	(_version v98)
+	(_time 1590516564282 2020.05.26 13:09:24)
+	(_source (\./src/Maquina_De_Estados_Finitos.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code 9e989991cac8cb899f9c87c49a989f9bc8989a989b)
+	(_entity
+		(_time 1590514628819)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 1)(i 0))))))
+		(_port (_internal X ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_entity (_in ))))
+		(_port (_internal CLK ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal Z ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_type (_internal estados 0 39 (_enum1 a b c e (_to (i 0)(i 3)))))
+		(_signal (_internal estado_pres estados 0 40 (_architecture (_uni ))))
+		(_signal (_internal estado_fut estados 0 40 (_architecture (_uni ))))
+		(_process
+			(line__45(_architecture 0 0 45 (_process (_target(3))(_sensitivity(1)(4))(_dssslsensitivity 1))))
+			(line__52(_architecture 1 0 52 (_process (_simple)(_target(2)(4))(_sensitivity(0)(1)(3))(_read(4)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_static
+		(514 )
+		(770 )
+		(515 )
+	)
+	(_model . Maquina_De_Estados 2 -1
+	)
+)
+I 000059 55 1454          1590517037870 Maquina_De_Estados
+(_unit VHDL (maquina_de_estados_finitos 0 28 (maquina_de_estados 0 38 ))
+	(_version v98)
+	(_time 1590517037871 2020.05.26 13:17:17)
+	(_source (\./src/Maquina_De_Estados_Finitos.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code 9795c59891c1c28096958ecd93919692c191939192)
+	(_entity
+		(_time 1590514628819)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 1)(i 0))))))
+		(_port (_internal X ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_entity (_in ))))
+		(_port (_internal CLK ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal Z ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_type (_internal estados 0 39 (_enum1 a b c e (_to (i 0)(i 3)))))
+		(_signal (_internal estado_pres estados 0 40 (_architecture (_uni ))))
+		(_signal (_internal estado_fut estados 0 40 (_architecture (_uni ))))
+		(_process
+			(line__45(_architecture 0 0 45 (_process (_target(3))(_sensitivity(1)(4))(_dssslsensitivity 1))))
+			(line__52(_architecture 1 0 52 (_process (_simple)(_target(2)(4))(_sensitivity(0)(1)(3))(_read(4)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_static
+		(514 )
+		(770 )
+		(515 )
+	)
+	(_model . Maquina_De_Estados 2 -1
+	)
+)
+I 000059 55 1454          1590517647198 Maquina_De_Estados
+(_unit VHDL (maquina_de_estados_finitos 0 28 (maquina_de_estados 0 38 ))
+	(_version v98)
+	(_time 1590517647199 2020.05.26 13:27:27)
+	(_source (\./src/Maquina_De_Estados_Finitos.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code c8c79e9dc19e9ddfc9cad192cccec9cd9ececccecd)
+	(_entity
+		(_time 1590514628819)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 1)(i 0))))))
+		(_port (_internal X ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_entity (_in ))))
+		(_port (_internal CLK ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal Z ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_type (_internal estados 0 39 (_enum1 a b c e (_to (i 0)(i 3)))))
+		(_signal (_internal estado_pres estados 0 40 (_architecture (_uni ))))
+		(_signal (_internal estado_fut estados 0 40 (_architecture (_uni ))))
+		(_process
+			(line__45(_architecture 0 0 45 (_process (_target(3))(_sensitivity(1)(4))(_dssslsensitivity 1))))
+			(line__52(_architecture 1 0 52 (_process (_simple)(_target(2)(4))(_sensitivity(0)(1)(3))(_read(4)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_static
+		(514 )
+		(770 )
+		(515 )
+	)
+	(_model . Maquina_De_Estados 2 -1
+	)
+)
+I 000059 55 1444          1590517793533 Maquina_De_Estados
+(_unit VHDL (maquina_de_estados_finitos 0 28 (maquina_de_estados 0 38 ))
+	(_version v98)
+	(_time 1590517793534 2020.05.26 13:29:53)
+	(_source (\./src/Maquina_De_Estados_Finitos.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code 60356160613635776165793a646661653666646665)
+	(_entity
+		(_time 1590514628819)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 1)(i 0))))))
+		(_port (_internal X ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_entity (_in ))))
+		(_port (_internal CLK ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal Z ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_type (_internal estados 0 39 (_enum1 a b c e (_to (i 0)(i 3)))))
+		(_signal (_internal estado_pres estados 0 40 (_architecture (_uni ))))
+		(_signal (_internal estado_fut estados 0 40 (_architecture (_uni ))))
+		(_process
+			(line__45(_architecture 0 0 45 (_process (_target(3))(_sensitivity(1)(4))(_dssslsensitivity 1))))
+			(line__52(_architecture 1 0 52 (_process (_simple)(_target(2)(4))(_sensitivity(0)(1)(3)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_static
+		(514 )
+		(770 )
+		(515 )
+	)
+	(_model . Maquina_De_Estados 2 -1
+	)
+)
+I 000059 55 1444          1590518649743 Maquina_De_Estados
+(_unit VHDL (maquina_de_estados_finitos 0 28 (maquina_de_estados 0 38 ))
+	(_version v98)
+	(_time 1590518649744 2020.05.26 13:44:09)
+	(_source (\./src/Maquina_De_Estados_Finitos.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code faa8fbaaaaacafedfbfee3a0fefcfbffacfcfefcff)
+	(_entity
+		(_time 1590514628819)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 1)(i 0))))))
+		(_port (_internal X ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_entity (_in ))))
+		(_port (_internal CLK ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal Z ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_type (_internal estados 0 39 (_enum1 a b c e (_to (i 0)(i 3)))))
+		(_signal (_internal estado_pres estados 0 40 (_architecture (_uni ))))
+		(_signal (_internal estado_fut estados 0 40 (_architecture (_uni ))))
+		(_process
+			(line__45(_architecture 0 0 45 (_process (_target(3))(_sensitivity(1)(4))(_dssslsensitivity 1))))
+			(line__52(_architecture 1 0 52 (_process (_simple)(_target(2)(4))(_sensitivity(0)(1)(3)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_static
+		(514 )
+		(770 )
+		(515 )
+	)
+	(_model . Maquina_De_Estados 2 -1
+	)
+)
+I 000059 55 1444          1590518669886 Maquina_De_Estados
+(_unit VHDL (maquina_de_estados_finitos 0 28 (maquina_de_estados 0 38 ))
+	(_version v98)
+	(_time 1590518669887 2020.05.26 13:44:29)
+	(_source (\./src/Maquina_De_Estados_Finitos.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code a7a3a7f0a1f1f2b0a6a3befda3a1a6a2f1a1a3a1a2)
+	(_entity
+		(_time 1590514628819)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 1)(i 0))))))
+		(_port (_internal X ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_entity (_in ))))
+		(_port (_internal CLK ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal Z ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_type (_internal estados 0 39 (_enum1 a b c e (_to (i 0)(i 3)))))
+		(_signal (_internal estado_pres estados 0 40 (_architecture (_uni ))))
+		(_signal (_internal estado_fut estados 0 40 (_architecture (_uni ))))
+		(_process
+			(line__45(_architecture 0 0 45 (_process (_target(3))(_sensitivity(1)(4))(_dssslsensitivity 1))))
+			(line__52(_architecture 1 0 52 (_process (_simple)(_target(2)(4))(_sensitivity(0)(1)(3)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_static
+		(514 )
+		(770 )
+		(515 )
+	)
+	(_model . Maquina_De_Estados 2 -1
+	)
+)
+V 000059 55 1441          1590519151075 Maquina_De_Estados
+(_unit VHDL (maquina_de_estados_finitos 0 28 (maquina_de_estados 0 38 ))
+	(_version v98)
+	(_time 1590519151076 2020.05.26 13:52:31)
+	(_source (\./src/Maquina_De_Estados_Finitos.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code 4b451a49181d1e5c4a4f52114f4d4a4e1d4d4f4d4e)
+	(_entity
+		(_time 1590514628819)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_type (_internal ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_array ~extieee.std_logic_1164.STD_LOGIC ((_downto (i 1)(i 0))))))
+		(_port (_internal X ~STD_LOGIC_VECTOR{1~downto~0}~12 0 30 (_entity (_in ))))
+		(_port (_internal CLK ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal Z ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_out ))))
+		(_type (_internal estados 0 39 (_enum1 a b c e (_to (i 0)(i 3)))))
+		(_signal (_internal estado_pres estados 0 40 (_architecture (_uni ))))
+		(_signal (_internal estado_fut estados 0 40 (_architecture (_uni ))))
+		(_process
+			(line__45(_architecture 0 0 45 (_process (_target(3))(_sensitivity(1)(4))(_dssslsensitivity 1))))
+			(line__52(_architecture 1 0 52 (_process (_simple)(_target(2)(4))(_sensitivity(0)(3)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_static
+		(514 )
+		(770 )
+		(515 )
+	)
+	(_model . Maquina_De_Estados 2 -1
+	)
+)

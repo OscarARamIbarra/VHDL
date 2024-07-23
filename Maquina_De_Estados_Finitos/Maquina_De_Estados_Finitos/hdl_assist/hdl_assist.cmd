@@ -1,0 +1,1 @@
+ -w -cvi -2002  -s "D:/DOCUMENTOS_d/HDL-DISEÑOS/Maquina_De_Estados_Finitos/Maquina_De_Estados_Finitos/hdl_assist/library.cfg"  -work Maquina_De_Estados_Finitos  -e 100  "D:/DOCUMENTOS_d/HDL-DISEÑOS/Maquina_De_Estados_Finitos/Maquina_De_Estados_Finitos/src/Maquina_De_Estados_Finitos.vhd"

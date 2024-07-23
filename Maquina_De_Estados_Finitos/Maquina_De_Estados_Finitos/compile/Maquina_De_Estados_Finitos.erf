@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available." 
+MESSAGE "File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd" 
+MESSAGE "Compile Entity "Maquina_De_Estados_Finitos"" 
+MESSAGE "Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.8 [s]" 

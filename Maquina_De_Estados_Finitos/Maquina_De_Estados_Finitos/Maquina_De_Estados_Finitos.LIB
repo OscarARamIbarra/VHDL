@@ -1,0 +1,25 @@
+timestamp=1590519151891
+
+[maquina_de_estados_finitos]
+A/maquina_de_estados=A/Maquina_De_Estados 21|./src/Maquina_De_Estados_Finitos.vhd|38|1*14794
+BinI32/maquina_de_estados=3*0
+I=0*1264
+I/maquina_de_estados=I/Maquina_De_Estados 0*11848
+M=11|0|v98|1590514628819|./src/Maquina_De_Estados_Finitos.vhd|0*844*0x4d114707e605a64ad5ba8ca60fe5a0d35fcd9b32|0*1151*0xab32bc1a2daf049573e14469f634e0e6
+M/maquina_de_estados=M/Maquina_De_Estados 21|0|v98|1590519151074|./src/Maquina_De_Estados_Finitos.vhd|0*10864*0x5780c6c38b825d39683dc959e9c6b7baaae74328|0*11713*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Maquina_De_Estados_Finitos.vhd|28
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/maquina_de_estados=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[~A]
+ModifyID=68
+Version=73
+
+[~MFT]
+0=62|0Maquina_De_Estados_Finitos.mgf|11848|10099
+1=20|1Maquina_De_Estados_Finitos.mgf|14794|14794
+3=0|3Maquina_De_Estados_Finitos.mgf|0|0
+
+[~U]
+maquina_de_estados_finitos=Maquina_De_Estados_Finitos 11|0*619|
+

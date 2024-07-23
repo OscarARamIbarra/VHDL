@@ -1,0 +1,14 @@
+[Version]
+Version=9.1
+[Designs]
+maquina_de_estados_finitos=.\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+maquina_de_estados_finitos=1
+[Settings]
+Active=maquina_de_estados_finitos

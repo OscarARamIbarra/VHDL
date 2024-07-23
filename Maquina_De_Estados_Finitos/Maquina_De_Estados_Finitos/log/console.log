@@ -1,0 +1,270 @@
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Error: COMP96_0071: Maquina_De_Estados_Finitos.vhd : (46, 26): Operator "=" is not defined for such operands.
+# Error: COMP96_0077: Maquina_De_Estados_Finitos.vhd : (46, 5): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Error: COMP96_0071: Maquina_De_Estados_Finitos.vhd : (46, 12): Operator "=" is not defined for such operands.
+# Error: COMP96_0077: Maquina_De_Estados_Finitos.vhd : (46, 5): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Error: COMP96_0122: Maquina_De_Estados_Finitos.vhd : (39, 30): Symbol "CLK" has already been declared in this scope.
+# Error: COMP96_0071: Maquina_De_Estados_Finitos.vhd : (46, 12): Operator "=" is not defined for such operands.
+# Error: COMP96_0077: Maquina_De_Estados_Finitos.vhd : (46, 5): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0301: Maquina_De_Estados_Finitos.vhd : (47, 3): The choice 'others' must be present when all alternatives are not covered.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Error: COMP96_0071: Maquina_De_Estados_Finitos.vhd : (46, 12): Operator "=" is not defined for such operands.
+# Error: COMP96_0077: Maquina_De_Estados_Finitos.vhd : (46, 5): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Error: ELBWRITE_0028: Maquina_De_Estados_Finitos.vhd : (98, 0): Signal "estado_pres" has two sources, but is not resolved signal (at line 98: estado_pres & at line 50: estado_pres).
+# Compile failure 1 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Compile success 0 Errors 0 Warnings  Analysis time :  94.0 [ms]
+# Design: Design "Maquina_De_Estados_Finitos" has been set as active.
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+Maquina_De_Estados_Finitos Maquina_De_Estados_Finitos Maquina_De_Estados
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6005 kB (elbread=1023 elab2=4891 kernel=90 sdf=0)
+# KERNEL: ASDB file was created in location D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\wave.asdb
+#  01:11 p. m., martes, 26 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: Maquina_De_Estados_Finitos (Maquina_De_Estados)
+# 5 signal(s) traced.
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+RUN 100NS
+# KERNEL: stopped at time: 100 ns
+RUN 100NS
+# KERNEL: stopped at time: 200 ns
+RUN 100NS
+# KERNEL: stopped at time: 300 ns
+endsim
+#  Simulation has been stopped
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Error: COMP96_0151: Maquina_De_Estados_Finitos.vhd : (45, 11): Name "RISING_EDGE" on sensitivity list must denote a signal.
+# Error: COMP96_0150: Maquina_De_Estados_Finitos.vhd : (45, 11): Signal name on sensitivity list is not static.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Compile success 0 Errors 0 Warnings  Analysis time :  94.0 [ms]
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+asim -O5 +access +r +m+Maquina_De_Estados_Finitos Maquina_De_Estados_Finitos Maquina_De_Estados
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6005 kB (elbread=1023 elab2=4891 kernel=90 sdf=0)
+# KERNEL: ASDB file was created in location D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\wave.asdb
+#  01:31 p. m., martes, 26 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: Maquina_De_Estados_Finitos (Maquina_De_Estados)
+# 5 signal(s) traced.
+RUN 100NS
+# KERNEL: stopped at time: 100 ns
+RUN 100NS
+# KERNEL: stopped at time: 200 ns
+RUN 100NS
+# KERNEL: stopped at time: 300 ns
+RUN 100NS
+# KERNEL: stopped at time: 400 ns
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Error: COMP96_0019: Maquina_De_Estados_Finitos.vhd : (90, 8): Keyword 'case' expected.
+# Error: COMP96_0036: Maquina_De_Estados_Finitos.vhd : (90, 10): Boolean expression expected.
+# Error: COMP96_0019: Maquina_De_Estados_Finitos.vhd : (91, 7): Keyword 'process' expected.
+# Error: COMP96_0015: Maquina_De_Estados_Finitos.vhd : (92, 6): ';' expected.
+# Error: COMP96_0016: Maquina_De_Estados_Finitos.vhd : (92, 13): Design unit declaration expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.5 [s]
+endsim
+#  Simulation has been stopped
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Compile success 0 Errors 0 Warnings  Analysis time :  79.0 [ms]
+asim -O5 +access +r +m+Maquina_De_Estados_Finitos Maquina_De_Estados_Finitos Maquina_De_Estados
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6005 kB (elbread=1023 elab2=4891 kernel=90 sdf=0)
+# KERNEL: ASDB file was created in location D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\wave.asdb
+#  01:44 p. m., martes, 26 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: Maquina_De_Estados_Finitos (Maquina_De_Estados)
+# 5 signal(s) traced.
+RUN 100NS
+# KERNEL: stopped at time: 100 ns
+RUN 100NS
+# KERNEL: stopped at time: 200 ns
+RUN 100NS
+acom -O3 -work Maquina_De_Estados_Finitos -2002  $dsn/src/Maquina_De_Estados_Finitos.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\Maquina_De_Estados_Finitos.vhd
+# Compile Entity "Maquina_De_Estados_Finitos"
+# Compile Architecture "Maquina_De_Estados" of Entity "Maquina_De_Estados_Finitos"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.8 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5750 kB (elbread=1023 elab2=4636 kernel=90 sdf=0)
+# KERNEL: ASDB file was created in location D:\DOCUMENTOS_d\HDL-DISEÑOS\Maquina_De_Estados_Finitos\Maquina_De_Estados_Finitos\src\wave.asdb
+#  01:52 p. m., martes, 26 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: Maquina_De_Estados_Finitos (Maquina_De_Estados)
+# KERNEL: Signal '/Maquina_De_Estados_Finitos/X' has already been traced
+# KERNEL: Signal '/Maquina_De_Estados_Finitos/CLK' has already been traced
+# KERNEL: Signal '/Maquina_De_Estados_Finitos/Z' has already been traced
+# KERNEL: Signal '/Maquina_De_Estados_Finitos/estado_pres' has already been traced
+# KERNEL: Signal '/Maquina_De_Estados_Finitos/estado_fut' has already been traced
+RUN 100NS
+# KERNEL: stopped at time: 100 ns
+RUN 100NS
+# KERNEL: stopped at time: 200 ns
+RUN 100NS
+# KERNEL: stopped at time: 300 ns
+RUN 100NS
+# KERNEL: stopped at time: 400 ns
+RUN 100NS
+# KERNEL: stopped at time: 500 ns
+RUN 100NS
+# KERNEL: stopped at time: 600 ns
+RUN 100NS
+# KERNEL: stopped at time: 700 ns
+RUN 100NS
+# KERNEL: stopped at time: 800 ns
+RUN 100NS
+# KERNEL: stopped at time: 900 ns
+#  Simulation has been stopped
