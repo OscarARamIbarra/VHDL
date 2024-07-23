@@ -1,0 +1,72 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+Multiplexor_2a1 Multiplexor_2a1 SIMPLE
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5748 kB (elbread=1023 elab2=4633 kernel=90 sdf=0)
+# KERNEL: ASDB file was created in location d:\DOCUMENTOS_d\HDL-DISEÑOS\Multiplexor_2a1\Multiplexor_2a1\src\wave.asdb
+#  04:23 p. m., lunes, 4 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: Multiplexor_2a1 (SIMPLE)
+# 3 signal(s) traced.
+RUN 100 NS
+# KERNEL: stopped at time: 100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100 NS
+# KERNEL: stopped at time: 200 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100 NS
+# KERNEL: stopped at time: 300 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim -O5 +access +r +m+Multiplexor_2a1 Multiplexor_2a1 SIMPLE
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5748 kB (elbread=1023 elab2=4633 kernel=90 sdf=0)
+# KERNEL: ASDB file was created in location d:\DOCUMENTOS_d\HDL-DISEÑOS\Multiplexor_2a1\Multiplexor_2a1\src\wave.asdb
+#  04:27 p. m., lunes, 4 de mayo de 2020
+#  Simulation has been initialized
+#  Selected Top-Level: Multiplexor_2a1 (SIMPLE)
+# 3 signal(s) traced.
+RUN 100 NS
+# KERNEL: stopped at time: 100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100 NS
+# KERNEL: stopped at time: 200 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100 NS
+# KERNEL: stopped at time: 300 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+RUN 100 NS
+# KERNEL: stopped at time: 400 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+#  Simulation has been stopped

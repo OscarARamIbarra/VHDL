@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available." 
+MESSAGE "File: d:\DOCUMENTOS_d\HDL-DISEÑOS\Multiplexor_2a1\Multiplexor_2a1\src\Multiplexor_2a1.vhd" 
+MESSAGE "Compile Entity "Multiplexor_2a1"" 
+MESSAGE "Compile Architecture "SIMPLE" of Entity "Multiplexor_2a1"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  2.0 [s]" 

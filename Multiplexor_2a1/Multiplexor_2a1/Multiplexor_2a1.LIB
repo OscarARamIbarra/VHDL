@@ -1,0 +1,25 @@
+timestamp=1588625709453
+
+[multiplexor_2a1]
+A/simple=A/SIMPLE 21|./src/Multiplexor_2a1.vhd|38|1*2170
+BinI32/simple=3*0
+I=0*542
+I/simple=I/SIMPLE 0*940
+M=11|0|v98|1588622225155|./src/Multiplexor_2a1.vhd|0*190*0x17e41f69278113afa134fdfd178241388129847c|0*451*0xab32bc1a2daf049573e14469f634e0e6
+M/simple=M/SIMPLE 21|0|v98|1588625706570|./src/Multiplexor_2a1.vhd|0*651*0x03ab09a47fc27460b0a8e50b9d88e8d0fda45ac6|0*839*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Multiplexor_2a1.vhd|28
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/simple=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[~A]
+ModifyID=19
+Version=73
+
+[~MFT]
+0=6|0Multiplexor_2a1.mgf|940|0
+1=4|1Multiplexor_2a1.mgf|2170|2170
+3=0|3Multiplexor_2a1.mgf|0|0
+
+[~U]
+multiplexor_2a1=Multiplexor_2a1 11|0*0|
+
